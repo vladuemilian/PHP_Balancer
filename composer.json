@@ -1,0 +1,20 @@
+{
+    "name": "vladuemilian/balancer",
+    "description": "",
+    "authors": [
+        {
+            "name": "Vladu Emilian Sorin",
+            "email": "vladu@softservlet.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.1.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "Vladuemilian\\Balancer": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
